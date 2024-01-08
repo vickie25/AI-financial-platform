@@ -38,4 +38,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-.env
+.env# updated 2024-01-08 09:14:22
